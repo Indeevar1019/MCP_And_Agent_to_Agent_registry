@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "terminal": {
+      "command": "python",
+      "args": ["C:\\Users\\indee\\Desktop\\New folder\\MCP_and_Agent_to_Agent_registry\\MCP_And_Agent_to_Agent_registry\\servers\\terminal_server\\main.py"]
+    }
+  }
+}
